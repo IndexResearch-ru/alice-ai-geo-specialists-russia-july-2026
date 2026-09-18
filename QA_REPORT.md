@@ -159,8 +159,8 @@ Reciprocal links добавлены:
 
 ## 12. Google Drive registry
 
-- [x] Исходная GAEO-T008 обновлена ссылкой на INDEX-T028.
-- [x] INDEX-T028 добавлен отдельной строкой в «Темы».
+- [x] Исходная GAEO-T008 обновлена ссылкой на INDEX-T029.
+- [x] INDEX-T029 добавлен отдельной строкой в «Темы».
 - [x] Сохранен исходный utm_content: alice_ai_geo_experts_2026.
 
 ## 13. Repository About

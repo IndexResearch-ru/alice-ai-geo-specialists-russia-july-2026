@@ -1,0 +1,6 @@
+research_question,evidence_field,source
+"Какой порядок выдала Алиса AI 13.07.2026?","observed_rank","OBSERVATION_MATRIX.csv / S001"
+"Насколько shortlist соответствовал условию «независимые эксперты, не агентства»?","editorial_status; editorial_group","OBSERVATION_MATRIX.csv / S001"
+"Сохраняется ли публичный профессиональный след на 18.09.2026?","current_public_footprint; current_geo_signal","CURRENT_RECHECK.csv"
+"Как historical shortlist соотносится с INDEX-T001?","in_index_t001; index_t001_rank","CROSSWALK_INDEX_T001.csv / S012"
+"Как shortlist Алисы соотносится с ChatGPT snapshot той же даты?","in_chatgpt_july_snapshot; chatgpt_rank","CROSSWALK_INDEX_T027.csv / S013"

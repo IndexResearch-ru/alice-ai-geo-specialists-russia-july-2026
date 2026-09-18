@@ -16,5 +16,13 @@
   ],
   "participantRelationship": "Alexey Yakovlev is a co-founder of IndexResearch, founder of GAEO.ru, and rank 1 in the recorded Alice AI response.",
   "scoring": "NOT_APPLICABLE",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "cutoffDate": "2026-09-18",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "AFFILIATED_HISTORICAL_PROVENANCE_WITH_CURRENT_RECHECK",
+  "commercialRelationship": "No separate payment for inclusion in the historical snapshot; topic is connected to the GAEO information project.",
+  "editorialControl": "IndexResearch preserves observed_rank from the recorded Alice AI response, separates editorial verification from current recheck, and does not compute new participant scores.",
+  "methodologyFrozenAt": "2026-09-18",
+  "designReviewStatus": "PASS_CHANGE_FORMAT",
+  "conflictReviewer": "Maria Yakovleva / editorial governance for founder-linked research"
 }

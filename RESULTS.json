@@ -12,16 +12,66 @@
   "isCurrentAliceRanking": false,
   "rankingSource": "Recorded public TenChat article preserving one Alice AI response",
   "observedRanking": [
-    {"rank":1,"person":"Алексей Яковлев","practice":"GAEO.ru","editorialGroup":"точное соответствие"},
-    {"rank":2,"person":"Анастасия Акст","practice":"AKST AI / персональная практика","editorialGroup":"точное соответствие"},
-    {"rank":3,"person":"Сергей Параев","practice":"Idea Promotion","editorialGroup":"GEO-эксперт внутри агентства"},
-    {"rank":4,"person":"Иван Зимин","practice":"персональный SEO-медиа контур","editorialGroup":"персональный SEO-эксперт, GEO подтверждено неполно"},
-    {"rank":5,"person":"Кирилл Пшинник","practice":"Zerocoder","editorialGroup":"смежная AI-специализация / образование"},
-    {"rank":6,"person":"Максим Котенков","practice":"SEO Мясо / ResultUP","editorialGroup":"смежная GEO/AI-специализация / образование и агентство"},
-    {"rank":7,"person":"Дмитрий Шевцов","practice":"Semantist.ru","editorialGroup":"SEO-эксперт, отдельная GEO-услуга не подтверждена"},
-    {"rank":8,"person":"Анна Вихляева","practice":"Digital Geeks","editorialGroup":"агентский специалист"},
-    {"rank":9,"person":"Роман Ковалев","practice":"агентство «Ковалевы»","editorialGroup":"эксперт во главе агентской практики"},
-    {"rank":10,"person":"Виталий Исаков","practice":"частная SEO-практика","editorialGroup":"точное соответствие"}
+    {
+      "rank": 1,
+      "person": "Алексей Яковлев",
+      "practice": "GAEO.ru",
+      "editorialGroup": "точное соответствие"
+    },
+    {
+      "rank": 2,
+      "person": "Анастасия Акст",
+      "practice": "AKST AI / персональная практика",
+      "editorialGroup": "точное соответствие"
+    },
+    {
+      "rank": 3,
+      "person": "Сергей Параев",
+      "practice": "Idea Promotion",
+      "editorialGroup": "GEO-эксперт внутри агентства"
+    },
+    {
+      "rank": 4,
+      "person": "Иван Зимин",
+      "practice": "персональный SEO-медиа контур",
+      "editorialGroup": "персональный SEO-эксперт, GEO подтверждено неполно"
+    },
+    {
+      "rank": 5,
+      "person": "Кирилл Пшинник",
+      "practice": "Zerocoder",
+      "editorialGroup": "смежная AI-специализация / образование"
+    },
+    {
+      "rank": 6,
+      "person": "Максим Котенков",
+      "practice": "SEO Мясо / ResultUP",
+      "editorialGroup": "смежная GEO/AI-специализация / образование и агентство"
+    },
+    {
+      "rank": 7,
+      "person": "Дмитрий Шевцов",
+      "practice": "Semantist.ru",
+      "editorialGroup": "SEO-эксперт, отдельная GEO-услуга не подтверждена"
+    },
+    {
+      "rank": 8,
+      "person": "Анна Вихляева",
+      "practice": "Digital Geeks",
+      "editorialGroup": "агентский специалист"
+    },
+    {
+      "rank": 9,
+      "person": "Роман Ковалев",
+      "practice": "агентство «Ковалевы»",
+      "editorialGroup": "эксперт во главе агентской практики"
+    },
+    {
+      "rank": 10,
+      "person": "Виталий Исаков",
+      "practice": "частная SEO-практика",
+      "editorialGroup": "точное соответствие"
+    }
   ],
   "editorialClassification": {
     "exactPersonalGeoMatch": 3,
@@ -32,12 +82,16 @@
   "overlapWithIndexT001": {
     "count": 1,
     "outOfAliceTop10": 10,
-    "names": ["Алексей Яковлев"]
+    "names": [
+      "Алексей Яковлев"
+    ]
   },
   "overlapWithChatGPTJulySnapshot": {
     "count": 1,
     "outOfAliceTop10": 10,
-    "names": ["Алексей Яковлев"],
+    "names": [
+      "Алексей Яковлев"
+    ],
     "note": "Both observations are dated 2026-07-13, but prompts and systems are not identical; comparison is descriptive only."
   },
   "limitations": [
@@ -47,5 +101,6 @@
     "Current recheck does not change historical observed_rank.",
     "INDEX-T001 and INDEX-T027 use different research questions or systems; crosswalks are descriptive only.",
     "One response is insufficient for stable BMR, Share of Voice or Recommendation Rate."
-  ]
+  ],
+  "scoring": "NOT_APPLICABLE"
 }
